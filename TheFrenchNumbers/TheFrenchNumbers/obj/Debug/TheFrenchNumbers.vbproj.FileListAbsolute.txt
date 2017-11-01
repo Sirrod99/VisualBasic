@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\bin\Debug\TheFrenchNumbers.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\bin\Debug\TheFrenchNumbers.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\bin\Debug\TheFrenchNumbers.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\bin\Debug\TheFrenchNumbers.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.pdb
+C:\Users\zd131147\Desktop\Visual Basic\TheFrenchNumbers\TheFrenchNumbers\bin\Debug\TheFrenchNumbers.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\TheFrenchNumbers\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.exe
+C:\Users\zd131147\Desktop\Visual Basic\TheFrenchNumbers\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.xml
+C:\Users\zd131147\Desktop\Visual Basic\TheFrenchNumbers\TheFrenchNumbers\obj\Debug\TheFrenchNumbers.pdb

@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\bin\Debug\NameAddress.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\bin\Debug\NameAddress.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\bin\Debug\NameAddress.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\bin\Debug\NameAddress.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\NameAddress\obj\Debug\NameAddress.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\NameAddress\NameAddress\bin\Debug\NameAddress.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\NameAddress\NameAddress\obj\Debug\NameAddress.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\NameAddress\NameAddress\obj\Debug\NameAddress.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\NameAddress\NameAddress\obj\Debug\NameAddress.pdb
