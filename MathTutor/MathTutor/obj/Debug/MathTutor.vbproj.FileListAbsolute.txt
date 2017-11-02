@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\MathTutor\obj\Debug\MathTutor.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\MathTutor\MathTutor\bin\Debug\MathTutor.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\MathTutor\MathTutor\obj\Debug\MathTutor.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\MathTutor\MathTutor\obj\Debug\MathTutor.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\MathTutor\MathTutor\obj\Debug\MathTutor.pdb

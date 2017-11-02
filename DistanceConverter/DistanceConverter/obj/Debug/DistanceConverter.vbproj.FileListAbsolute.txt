@@ -12,3 +12,7 @@ C:\Users\zd131147\Desktop\Visual Basic\DistanceConverter\DistanceConverter\bin\D
 C:\Users\zd131147\Desktop\Visual Basic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
 C:\Users\zd131147\Desktop\Visual Basic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.xml
 C:\Users\zd131147\Desktop\Visual Basic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb

@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\bin\Debug\Jokes.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\bin\Debug\Jokes.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\bin\Debug\Jokes.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\bin\Debug\Jokes.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\Jokes\obj\Debug\Jokes.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Jokes\Jokes\bin\Debug\Jokes.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Jokes\Jokes\obj\Debug\Jokes.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Jokes\Jokes\obj\Debug\Jokes.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Jokes\Jokes\obj\Debug\Jokes.pdb
