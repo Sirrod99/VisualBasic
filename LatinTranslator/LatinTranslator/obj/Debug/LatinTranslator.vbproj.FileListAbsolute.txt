@@ -12,3 +12,9 @@ C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslat
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.xml
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Resources.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.vbproj.GenerateResource.Cache

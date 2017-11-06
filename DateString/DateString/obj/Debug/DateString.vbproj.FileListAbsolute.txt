@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DateString\DateString\bin\Debug\DateString.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DateString\DateString\obj\Debug\DateString.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DateString\DateString\obj\Debug\DateString.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DateString\DateString\obj\Debug\DateString.pdb
