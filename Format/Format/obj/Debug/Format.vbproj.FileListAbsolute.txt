@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\bin\Debug\Format.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\bin\Debug\Format.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\bin\Debug\Format.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\bin\Debug\Format.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\Format\obj\Debug\Format.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Format\Format\bin\Debug\Format.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Format\Format\obj\Debug\Format.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Format\Format\obj\Debug\Format.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Format\Format\obj\Debug\Format.pdb
