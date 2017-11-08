@@ -1,0 +1,10 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\bin\Debug\VariableDemo.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\bin\Debug\VariableDemo.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\bin\Debug\VariableDemo.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\bin\Debug\VariableDemo.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\VariableDemo\obj\Debug\VariableDemo.pdb
