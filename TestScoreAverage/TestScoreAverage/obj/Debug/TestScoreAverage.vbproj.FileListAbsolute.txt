@@ -1,0 +1,11 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\bin\Debug\TestScoreAverage.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.Form1.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.Resources.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.vbproj.GenerateResource.Cache
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.pdb

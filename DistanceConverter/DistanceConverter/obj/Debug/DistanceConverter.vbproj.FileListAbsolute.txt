@@ -16,3 +16,9 @@ C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceCon
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.xml
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.KiloConverter.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.Resources.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.vbproj.GenerateResource.Cache

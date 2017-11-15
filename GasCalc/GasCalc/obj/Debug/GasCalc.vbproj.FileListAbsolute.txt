@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\bin\Debug\GasCalc.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\bin\Debug\GasCalc.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\bin\Debug\GasCalc.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\bin\Debug\GasCalc.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\GasCalc\obj\Debug\GasCalc.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\GasCalc\GasCalc\bin\Debug\GasCalc.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\GasCalc\GasCalc\obj\Debug\GasCalc.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\GasCalc\GasCalc\obj\Debug\GasCalc.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\GasCalc\GasCalc\obj\Debug\GasCalc.pdb

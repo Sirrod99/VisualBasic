@@ -12,3 +12,9 @@ C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\bin\Debug\Hotel
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.exe
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.xml
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\bin\Debug\Hotel2.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.Resources.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Hotel2\Hotel2\obj\Debug\Hotel2.vbproj.GenerateResource.Cache
