@@ -9,3 +9,4 @@ C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAve
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.exe
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.xml
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\TestScoreAverage\TestScoreAverage\obj\Debug\TestScoreAverage.vbprojResolveAssemblyReference.cache

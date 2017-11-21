@@ -25,16 +25,17 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.lblAverage = New System.Windows.Forms.Label()
         Me.txtTestScoreOne = New System.Windows.Forms.TextBox()
-        Me.txtTestScoreFour = New System.Windows.Forms.TextBox()
         Me.txtTestScoreThree = New System.Windows.Forms.TextBox()
         Me.txtTestScoreTwo = New System.Windows.Forms.TextBox()
         Me.btnCalcAv = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
+        Me.lblMessage = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.lblGrade = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -64,19 +65,10 @@ Partial Class Form1
         Me.Label3.TabIndex = 2
         Me.Label3.Text = "Test Score 3:"
         '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(23, 217)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(71, 13)
-        Me.Label4.TabIndex = 3
-        Me.Label4.Text = "Test Score 4:"
-        '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(23, 278)
+        Me.Label5.Location = New System.Drawing.Point(23, 209)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(47, 13)
         Me.Label5.TabIndex = 4
@@ -86,7 +78,7 @@ Partial Class Form1
         '
         Me.lblAverage.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.lblAverage.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.lblAverage.Location = New System.Drawing.Point(114, 277)
+        Me.lblAverage.Location = New System.Drawing.Point(114, 200)
         Me.lblAverage.Name = "lblAverage"
         Me.lblAverage.Size = New System.Drawing.Size(100, 22)
         Me.lblAverage.TabIndex = 5
@@ -97,13 +89,6 @@ Partial Class Form1
         Me.txtTestScoreOne.Name = "txtTestScoreOne"
         Me.txtTestScoreOne.Size = New System.Drawing.Size(100, 20)
         Me.txtTestScoreOne.TabIndex = 6
-        '
-        'txtTestScoreFour
-        '
-        Me.txtTestScoreFour.Location = New System.Drawing.Point(114, 214)
-        Me.txtTestScoreFour.Name = "txtTestScoreFour"
-        Me.txtTestScoreFour.Size = New System.Drawing.Size(100, 20)
-        Me.txtTestScoreFour.TabIndex = 8
         '
         'txtTestScoreThree
         '
@@ -121,7 +106,7 @@ Partial Class Form1
         '
         'btnCalcAv
         '
-        Me.btnCalcAv.Location = New System.Drawing.Point(12, 335)
+        Me.btnCalcAv.Location = New System.Drawing.Point(19, 298)
         Me.btnCalcAv.Name = "btnCalcAv"
         Me.btnCalcAv.Size = New System.Drawing.Size(75, 35)
         Me.btnCalcAv.TabIndex = 11
@@ -130,7 +115,7 @@ Partial Class Form1
         '
         'btnClear
         '
-        Me.btnClear.Location = New System.Drawing.Point(123, 335)
+        Me.btnClear.Location = New System.Drawing.Point(117, 298)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(75, 35)
         Me.btnClear.TabIndex = 12
@@ -139,12 +124,36 @@ Partial Class Form1
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(231, 335)
+        Me.btnExit.Location = New System.Drawing.Point(231, 298)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 35)
         Me.btnExit.TabIndex = 13
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = True
+        '
+        'lblMessage
+        '
+        Me.lblMessage.Location = New System.Drawing.Point(111, 272)
+        Me.lblMessage.Name = "lblMessage"
+        Me.lblMessage.Size = New System.Drawing.Size(100, 23)
+        Me.lblMessage.TabIndex = 14
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(23, 254)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(39, 13)
+        Me.Label4.TabIndex = 15
+        Me.Label4.Text = "Grade:"
+        '
+        'lblGrade
+        '
+        Me.lblGrade.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblGrade.Location = New System.Drawing.Point(114, 253)
+        Me.lblGrade.Name = "lblGrade"
+        Me.lblGrade.Size = New System.Drawing.Size(100, 23)
+        Me.lblGrade.TabIndex = 16
         '
         'Form1
         '
@@ -152,21 +161,22 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.AppWorkspace
         Me.ClientSize = New System.Drawing.Size(318, 382)
+        Me.Controls.Add(Me.lblGrade)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.lblMessage)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnCalcAv)
         Me.Controls.Add(Me.txtTestScoreTwo)
         Me.Controls.Add(Me.txtTestScoreThree)
-        Me.Controls.Add(Me.txtTestScoreFour)
         Me.Controls.Add(Me.txtTestScoreOne)
         Me.Controls.Add(Me.lblAverage)
         Me.Controls.Add(Me.Label5)
-        Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Test Score Average"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -174,15 +184,16 @@ Partial Class Form1
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
-    Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents lblAverage As System.Windows.Forms.Label
     Friend WithEvents txtTestScoreOne As System.Windows.Forms.TextBox
-    Friend WithEvents txtTestScoreFour As System.Windows.Forms.TextBox
     Friend WithEvents txtTestScoreThree As System.Windows.Forms.TextBox
     Friend WithEvents txtTestScoreTwo As System.Windows.Forms.TextBox
     Friend WithEvents btnCalcAv As System.Windows.Forms.Button
     Friend WithEvents btnClear As System.Windows.Forms.Button
     Friend WithEvents btnExit As System.Windows.Forms.Button
+    Friend WithEvents lblMessage As System.Windows.Forms.Label
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents lblGrade As System.Windows.Forms.Label
 
 End Class
