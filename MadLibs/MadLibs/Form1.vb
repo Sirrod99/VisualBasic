@@ -9,14 +9,14 @@
         Dim strInput As String
 
 
-        strInput = listColor.SelectedItem.ToString() & " dragon is the " &
-            listEst.SelectedItem.ToString() & " dragon of all, It has " & listNumber.SelectedItem.ToString() &
-            " " & listBodyPartPlural.SelectedItem.ToString() & ", and a " &
-            listAnimal.SelectedItem.ToString() & " shaped like a " &
-            listNoun.SelectedItem.ToString() & ". It likes to eat " &
+        strInput = listColor.SelectedItem.ToString() & " frog is the " &
+            listEst.SelectedItem.ToString() & " frog of in the world, It eats " & listNumber.SelectedItem.ToString() &
+            " " & listBodyPartPlural.SelectedItem.ToString() & " a day, and " &
+            listAnimal.SelectedItem.ToString() & ", it also has a chokehold on a " &
+            listNoun.SelectedItem.ToString() & ". It likes to lick " &
             listPluralNoun.SelectedItem.ToString()
 
-        MessageBox.Show("The " & strInput & ", although, it will feat on nearly anything.")
+        MessageBox.Show("The " & strInput & ", although, it will lick nearly anything.")
 
 
 

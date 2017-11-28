@@ -44,6 +44,7 @@ Partial Class Form1
         '
         'listColor
         '
+        Me.listColor.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listColor.FormattingEnabled = True
         Me.listColor.Items.AddRange(New Object() {"blue", "black ", "red", "green", "purple", "orange", "gold", "silver", "diamond"})
         Me.listColor.Location = New System.Drawing.Point(8, 29)
@@ -53,6 +54,7 @@ Partial Class Form1
         '
         'listEst
         '
+        Me.listEst.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listEst.FormattingEnabled = True
         Me.listEst.Items.AddRange(New Object() {"biggest", "fastest", "fatest", "shortest", "smallest", "tallest", "dumbest", "ugliest"})
         Me.listEst.Location = New System.Drawing.Point(185, 29)
@@ -72,6 +74,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label2.Location = New System.Drawing.Point(182, 13)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(96, 13)
@@ -80,6 +83,7 @@ Partial Class Form1
         '
         'listNumber
         '
+        Me.listNumber.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listNumber.FormattingEnabled = True
         Me.listNumber.Items.AddRange(New Object() {"1", "10", "69", "96", "100", "1000", "12", "21", "666"})
         Me.listNumber.Location = New System.Drawing.Point(370, 29)
@@ -89,6 +93,7 @@ Partial Class Form1
         '
         'listAnimal
         '
+        Me.listAnimal.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listAnimal.FormattingEnabled = True
         Me.listAnimal.Items.AddRange(New Object() {"pig", "cat", "dog", "frog", "turkey", "whale"})
         Me.listAnimal.Location = New System.Drawing.Point(185, 164)
@@ -98,6 +103,7 @@ Partial Class Form1
         '
         'listBodyPartPlural
         '
+        Me.listBodyPartPlural.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listBodyPartPlural.FormattingEnabled = True
         Me.listBodyPartPlural.Items.AddRange(New Object() {"legs", "arms", "ears", "eyes", "mouths"})
         Me.listBodyPartPlural.Location = New System.Drawing.Point(8, 164)
@@ -107,6 +113,7 @@ Partial Class Form1
         '
         'listNoun
         '
+        Me.listNoun.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listNoun.FormattingEnabled = True
         Me.listNoun.Items.AddRange(New Object() {"Liam Neeson", "Jimmy", "Harrison Ford", "me", "you"})
         Me.listNoun.Location = New System.Drawing.Point(370, 164)
@@ -116,6 +123,7 @@ Partial Class Form1
         '
         'listPluralNoun
         '
+        Me.listPluralNoun.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.listPluralNoun.FormattingEnabled = True
         Me.listPluralNoun.Items.AddRange(New Object() {"houses", "cars", "streets", "parks", "people", "fishes"})
         Me.listPluralNoun.Location = New System.Drawing.Point(8, 316)
@@ -126,6 +134,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
+        Me.Label3.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label3.Location = New System.Drawing.Point(370, 12)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(44, 13)
@@ -135,6 +144,7 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label5.Location = New System.Drawing.Point(5, 148)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(82, 13)
@@ -144,6 +154,7 @@ Partial Class Form1
         'Label6
         '
         Me.Label6.AutoSize = True
+        Me.Label6.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label6.Location = New System.Drawing.Point(182, 148)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(38, 13)
@@ -153,6 +164,7 @@ Partial Class Form1
         'Label7
         '
         Me.Label7.AutoSize = True
+        Me.Label7.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label7.Location = New System.Drawing.Point(370, 148)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(33, 13)
@@ -162,6 +174,7 @@ Partial Class Form1
         'Label8
         '
         Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.Label8.Location = New System.Drawing.Point(5, 300)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(62, 13)
@@ -170,35 +183,39 @@ Partial Class Form1
         '
         'btnSubmit
         '
-        Me.btnSubmit.Location = New System.Drawing.Point(164, 335)
+        Me.btnSubmit.BackColor = System.Drawing.SystemColors.ButtonShadow
+        Me.btnSubmit.Location = New System.Drawing.Point(164, 316)
         Me.btnSubmit.Name = "btnSubmit"
         Me.btnSubmit.Size = New System.Drawing.Size(114, 45)
         Me.btnSubmit.TabIndex = 15
         Me.btnSubmit.Text = "Submit"
-        Me.btnSubmit.UseVisualStyleBackColor = True
+        Me.btnSubmit.UseVisualStyleBackColor = False
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(370, 300)
+        Me.btnExit.BackColor = System.Drawing.SystemColors.ButtonShadow
+        Me.btnExit.Location = New System.Drawing.Point(373, 315)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(114, 45)
         Me.btnExit.TabIndex = 16
         Me.btnExit.Text = "Exit"
-        Me.btnExit.UseVisualStyleBackColor = True
+        Me.btnExit.UseVisualStyleBackColor = False
         '
         'btnClear
         '
+        Me.btnClear.BackColor = System.Drawing.SystemColors.ButtonShadow
         Me.btnClear.Location = New System.Drawing.Point(373, 366)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(114, 45)
         Me.btnClear.TabIndex = 17
         Me.btnClear.Text = "Button2"
-        Me.btnClear.UseVisualStyleBackColor = True
+        Me.btnClear.UseVisualStyleBackColor = False
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ControlDarkDark
         Me.ClientSize = New System.Drawing.Size(514, 423)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnExit)
@@ -218,7 +235,7 @@ Partial Class Form1
         Me.Controls.Add(Me.listEst)
         Me.Controls.Add(Me.listColor)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Mad Libs"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
