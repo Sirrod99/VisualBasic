@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\bin\Debug\RomanNumerals.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\RomanNumerals\obj\Debug\RomanNumerals.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb

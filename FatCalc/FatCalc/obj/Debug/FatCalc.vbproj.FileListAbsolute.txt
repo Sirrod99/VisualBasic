@@ -1,0 +1,14 @@
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\bin\Debug\FatCalc.exe.config
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\bin\Debug\FatCalc.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\bin\Debug\FatCalc.pdb
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\bin\Debug\FatCalc.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.Form1.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.Resources.resources
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.vbproj.GenerateResource.Cache
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.exe
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.xml
+C:\Users\zd131147\AppData\Local\Temporary Projects\FatCalc\obj\Debug\FatCalc.pdb
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\FatCalc\FatCalc\bin\Debug\FatCalc.exe.config
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\FatCalc\FatCalc\obj\Debug\FatCalc.exe
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\FatCalc\FatCalc\obj\Debug\FatCalc.xml
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\FatCalc\FatCalc\obj\Debug\FatCalc.pdb
