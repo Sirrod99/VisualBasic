@@ -28,11 +28,11 @@ Partial Class DistanceCalc
         '
         'btnCalculate
         '
-        Me.btnCalculate.Location = New System.Drawing.Point(62, 205)
+        Me.btnCalculate.Location = New System.Drawing.Point(30, 205)
         Me.btnCalculate.Name = "btnCalculate"
         Me.btnCalculate.Size = New System.Drawing.Size(75, 23)
         Me.btnCalculate.TabIndex = 0
-        Me.btnCalculate.Text = "Button1"
+        Me.btnCalculate.Text = "Calculate"
         Me.btnCalculate.UseVisualStyleBackColor = True
         '
         'btnExit
