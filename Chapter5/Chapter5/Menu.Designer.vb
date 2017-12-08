@@ -27,6 +27,9 @@ Partial Class Menu
         Me.btnSumOfNumbers = New System.Windows.Forms.Button()
         Me.btnDistanceCalc = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
+        Me.btnPopulation = New System.Windows.Forms.Button()
+        Me.btnRandomNumber = New System.Windows.Forms.Button()
+        Me.btnRandomNumberEnchanement = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -74,11 +77,41 @@ Partial Class Menu
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
+        'btnPopulation
+        '
+        Me.btnPopulation.Location = New System.Drawing.Point(156, 12)
+        Me.btnPopulation.Name = "btnPopulation"
+        Me.btnPopulation.Size = New System.Drawing.Size(116, 23)
+        Me.btnPopulation.TabIndex = 5
+        Me.btnPopulation.Text = "Population"
+        Me.btnPopulation.UseVisualStyleBackColor = True
+        '
+        'btnRandomNumber
+        '
+        Me.btnRandomNumber.Location = New System.Drawing.Point(156, 57)
+        Me.btnRandomNumber.Name = "btnRandomNumber"
+        Me.btnRandomNumber.Size = New System.Drawing.Size(116, 23)
+        Me.btnRandomNumber.TabIndex = 6
+        Me.btnRandomNumber.Text = "Random Number "
+        Me.btnRandomNumber.UseVisualStyleBackColor = True
+        '
+        'btnRandomNumberEnchanement
+        '
+        Me.btnRandomNumberEnchanement.Location = New System.Drawing.Point(156, 99)
+        Me.btnRandomNumberEnchanement.Name = "btnRandomNumberEnchanement"
+        Me.btnRandomNumberEnchanement.Size = New System.Drawing.Size(116, 23)
+        Me.btnRandomNumberEnchanement.TabIndex = 7
+        Me.btnRandomNumberEnchanement.Text = "Random Number +"
+        Me.btnRandomNumberEnchanement.UseVisualStyleBackColor = True
+        '
         'Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.btnRandomNumberEnchanement)
+        Me.Controls.Add(Me.btnRandomNumber)
+        Me.Controls.Add(Me.btnPopulation)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnDistanceCalc)
         Me.Controls.Add(Me.btnSumOfNumbers)
@@ -94,4 +127,7 @@ Partial Class Menu
     Friend WithEvents btnSumOfNumbers As System.Windows.Forms.Button
     Friend WithEvents btnDistanceCalc As System.Windows.Forms.Button
     Friend WithEvents btnExit As System.Windows.Forms.Button
+    Friend WithEvents btnPopulation As System.Windows.Forms.Button
+    Friend WithEvents btnRandomNumber As System.Windows.Forms.Button
+    Friend WithEvents btnRandomNumberEnchanement As System.Windows.Forms.Button
 End Class
