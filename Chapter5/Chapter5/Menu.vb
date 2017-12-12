@@ -28,4 +28,9 @@
         Dim box = New Population
         box.Show()
     End Sub
+
+    Private Sub btnRandomNumberEnchanement_Click(sender As Object, e As EventArgs) Handles btnRandomNumberEnchanement.Click
+        Dim box = New RandomGuessGame
+        box.Show()
+    End Sub
 End Class

@@ -146,6 +146,9 @@
     <EmbeddedResource Include="Population.resx">
       <DependentUpon>Population.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="RandomGuessGame.resx">
+      <DependentUpon>RandomGuessGame.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RockPaperScissors.resx">
       <DependentUpon>RockPaperScissors.vb</DependentUpon>
     </EmbeddedResource>

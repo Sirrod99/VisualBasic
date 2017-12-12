@@ -25,3 +25,4 @@ C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Chapter5\Chapter5\obj\Debug\C
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Chapter5\Chapter5\obj\Debug\Chapter5.vbprojResolveAssemblyReference.cache
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Chapter5\Chapter5\obj\Debug\Chapter5.DistanceCalc.resources
 C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Chapter5\Chapter5\obj\Debug\Chapter5.Population.resources
+C:\Users\zd131147\Desktop\Visual Basic\VisualBasic\Chapter5\Chapter5\obj\Debug\Chapter5.RandomGuessGame.resources
