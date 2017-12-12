@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class CoinToss
     Dim tailTotal As Integer
     Dim headTotal As Integer
 

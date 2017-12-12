@@ -87,7 +87,7 @@ Partial Class Menu
         Me.Controls.Add(Me.btnFriendList1)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Menu"
-        Me.Text = "Menu"
+        Me.Text = "Chapter 8: Tutorial Menu"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
