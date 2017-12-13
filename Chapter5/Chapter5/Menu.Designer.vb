@@ -61,7 +61,7 @@ Partial Class Menu
         '
         'btnDistanceCalc
         '
-        Me.btnDistanceCalc.Location = New System.Drawing.Point(12, 137)
+        Me.btnDistanceCalc.Location = New System.Drawing.Point(82, 138)
         Me.btnDistanceCalc.Name = "btnDistanceCalc"
         Me.btnDistanceCalc.Size = New System.Drawing.Size(116, 23)
         Me.btnDistanceCalc.TabIndex = 3
@@ -118,7 +118,7 @@ Partial Class Menu
         Me.Controls.Add(Me.btnTestScores)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Menu"
-        Me.Text = "Menu"
+        Me.Text = "Chapter 5 Menu"
         Me.ResumeLayout(False)
 
     End Sub
